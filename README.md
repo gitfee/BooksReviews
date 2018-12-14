@@ -2,11 +2,15 @@
 Read some books and write somethings.
 
 ## Tools
+Ubuntu 18.4
+Okular 1.4.2
+
 ## BooksLists
 
 * Readed
 
 * Reading
+
 > 全球通史：从史前史到21世纪.第7版
 > 全球通史-1500年以前的世界
 > 全球通史-1500年以后的世界
@@ -14,6 +18,7 @@ Read some books and write somethings.
 * WillRead
 
 ## Good WebSites
+
 > http://www.wwaaffxx.com/fileview-923159/
 > http://panduoduo.net
 > http://pansoso.com
