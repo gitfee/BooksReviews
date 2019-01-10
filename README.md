@@ -31,3 +31,6 @@ Okular 1.4.2
 > http://mks.hzau.edu.cn/info/1036/2568.htm 习近平总书记系列重要讲话读本（2016年版）
 > http://mks.hzau.edu.cn/info/1036/2567.htm 《习近平谈治国理政》
 > https://www.wxyjs.org.cn/ 中央党史 文献资料
+
+
+## 所有资料收集自网络，如果侵犯您的权力请通过本人主页联系我进行删除。
